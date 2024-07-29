@@ -1,5 +1,5 @@
-const clientId = '6c1b548e63d44f4fb18407a8ee4b8094';
-const clientSecret = '4290da996db94fc3ad7130fd36d9a2e3';
+const clientId = '';
+const clientSecret = '';
 
 let accessToken = '';
 
